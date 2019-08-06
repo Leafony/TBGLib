@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For BGLib
+#######################################
+
+#######################################
+# Library (KEYWORD3)
+#######################################
+
+BGLib	KEYWORD3
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+checkActivity				KEYWORD2
+checkError				KEYWORD2
+checkTimeout				KEYWORD2
+ble_cmd_system_reset			KEYWORD2
+ble_cmd_le_gap_set_scan_parameters	KEYWORD2
+ble_cmd_le_gap_discover			KEYWORD2
+ble_cmd_le_gap_end_procedure		KEYWORD2
+ble_cmd_gatt_write_characteristic_value	KEYWORD2
+ble_cmd_gatt_read_characteristic_value	KEYWORD2
+ble_cmd_gatt_set_characteristic_notification	KEYWORD2
+ble_cmd_le_gap_connect			KEYWORD2
+ble_cmd_le_connection_close		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
