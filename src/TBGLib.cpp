@@ -1,12 +1,12 @@
 ﻿//=====================================================================
-//   Trillion Node Engine BLE leaf Bule Geko library(TBGLib)
+//   Leafony Platform BLE leaf Bule Geko library(TBGLib)
 //     Platform     : BGM11x 
 //
-//    (c) 2019  Trillion-Node Engine Project
-//    Released under the MIT license 
-//    https://opensource.org/licenses/mit-license.php//
+//		(c) 2019  Trillion-Node Study Group
+//		Released under the MIT license
+//		https://opensource.org/licenses/MIT
 //
-//      Rev.00 2019/5/31  First release
+//      Rev.00 2019/08/01 First release
 //=====================================================================
 // Bluegiga BGLib Arduino interface library source file
 // Copyright (c) 2014 Jeff Rowberg
